@@ -36,9 +36,13 @@
 .col-1 {
   float: left;
   width: 32%;
-  margin-bottom: 2%;
 }
 
 .after {
   margin-left: 2%;
+}
+
+section {
+  margin-bottom: 2%;
+
 }
