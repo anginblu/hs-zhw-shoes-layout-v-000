@@ -31,12 +31,15 @@
 .col-1 {
   float: left;
   width: 32%;
-  background: white;
 }
 
 .col-1_after {
   float: left;
   width: 32%;
   margin-left: 2%;
+}
+
+.white {
   background: white;
+
 }
